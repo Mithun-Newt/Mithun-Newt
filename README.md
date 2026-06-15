@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Mithun 👋
 
-<!--
-**Mithun-Newt/Mithun-Newt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Systems Engineering Learner focused on building production-ready GenAI applications.
 
-Here are some ideas to get you started:
+Currently learning:
+- FastAPI
+- LangChain
+- AI Agents
+- MCP Servers
+- PostgreSQL
+- Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Recent Projects:
+- AI Career Copilot
+- School Admission Management System
+- AI Summarization Agent
+
+Goal:
+Build real-world AI systems that go beyond demos and can be deployed in production.
