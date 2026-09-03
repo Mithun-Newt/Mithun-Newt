@@ -18,5 +18,3 @@ Recent Projects:
 Goal:
 Build real-world AI systems that go beyond demos and can be deployed in production.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mithun-Newt&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mithun-Newt&layout=compact)
